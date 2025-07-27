@@ -1,0 +1,12 @@
+# .gitignore for C# Application
+Assignment 1/Application/SemantixEngine/packages
+Assignment 1/Application/SemantixEngine/bin
+Assignment 1/Application/SemantixEngine/obj
+Assignment 1/Application/SemantixEngine/Properties
+Assignment 1/Application/SemantixEngine/packages
+Assignment 1/Application/SemantixEngine/.vs
+
+# .gitignore for Class Library
+Assignment 1/Application/VectorSearchLib/packages
+Assignment 1/Application/VectorSearchLib/bin
+Assignment 1/Application/VectorSearchLib/obj
